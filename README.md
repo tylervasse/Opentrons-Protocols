@@ -19,11 +19,13 @@ Each folder represents a distinct experimental lineage, and within each folder, 
 
 ## Repository Structure
 
+```
 Opentrons Programs/
 ├── miRNA rtPCR Project/
-│ └── protocol.json
+│   └── protocol.json
 ├── HPV rtPCR Project/
-│ ├── protocol.json (early versions)
-│ └── protocol.py (later versions)
+│   ├── protocol.json   (early versions)
+│   └── protocol.py     (later versions)
 ├── Serial Dilution rtPCR Test/
-│ └── protocol.json
+│   └── protocol.json
+```
